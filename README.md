@@ -16,7 +16,7 @@ python -m pip install .
 
 ## Install from GitHub (replace ORG/REPO and tag)
 ```bash
-python -m pip install "git+https://github.com/ORG/REPO.git@v0.1.0"
+python -m pip install "git+https://github.com/sashawoodwardgagne-creator/toy_lib.git"
 ```
 
 ## Use in Python
